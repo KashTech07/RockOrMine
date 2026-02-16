@@ -21,3 +21,5 @@ Pandas & NumPy
 
 📊 Results
 The model successfully identifies objects with reliable accuracy, demonstrating the power of linear classification in signal processing.
+# Open this project in your browser:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_FILE.ipynb)
